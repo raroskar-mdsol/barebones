@@ -1,0 +1,18 @@
+# WARNING! Do not modify this file directly. It was generated from the
+# 'database.yml.dice.dice' template file.
+#
+# Use the rake config task to reconfigure. See the template file for
+# further guidance.
+
+
+development:
+  adapter: postgres
+  database: barebones_development
+  user: raroskar
+  password:
+  host: localhost
+  max_connections: 4
+  timeout: 5000
+  encoding: utf8
+
+
